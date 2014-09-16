@@ -1,0 +1,934 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"sc",
+				"scrollImg"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"MARG",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"HEAD",
+				"head	Tag"
+			],
+			[
+				"top",
+				"top_menuLink_color"
+			],
+			[
+				"rgb",
+				"rgba"
+			],
+			[
+				"topm",
+				"top_menuLink_color"
+			],
+			[
+				"te",
+				"text-top"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fir",
+				"first-child"
+			],
+			[
+				"um",
+				"umlaute2"
+			],
+			[
+				"uml",
+				"umlaute3"
+			],
+			[
+				"umla",
+				"umlaute2"
+			],
+			[
+				"KOnta",
+				"Kontaktformular"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"c",
+				"disc"
+			],
+			[
+				"s",
+				"disc"
+			],
+			[
+				"h2",
+				"h2_color"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"h1",
+				"h1_color"
+			],
+			[
+				"bg",
+				"bg_color"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"mysql_fetch_a",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"db",
+				"dbName"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"header",
+				"Header"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"page",
+				"page-wrap"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"lo",
+				"loadMoreTweets"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"link",
+				"linkcolor-hover"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"rigt",
+				"right-box"
+			],
+			[
+				"right",
+				"right-box"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"borderre",
+				"border-right-style"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"d",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"bo",
+				"Bower: Install"
+			],
+			[
+				"bower	",
+				"Bower: Install"
+			],
+			[
+				"bowe",
+				"Bower: Install"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcl i",
+				"Package Control: Install Package"
+			],
+			[
+				"pcl",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: List Packages"
+			],
+			[
+				"ctt",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"contab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"con tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ss sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"ss",
+				"Set Syntax: JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"Con",
+				"Convert Case: Upper Case"
+			],
+			[
+				"conver",
+				"Convert Case: Upper Case"
+			],
+			[
+				"Inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"Package Control: Re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 60.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/tabbar.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/panel/accounts/bgierlich.php",
+		"/Users/Benjamin/Downloads/kirbylogo/kirbylogo.svg",
+		"/Users/Benjamin/Sites/blindinger_2014/site/config/config.php",
+		"/Users/Benjamin/Sites/blindinger_2014/scss/styles.scss",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/shortads.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/panel/blueprints/default.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/panel/blueprints/archiv.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/panel/blueprints/programmfahrt.php",
+		"/Users/Benjamin/Sites/kirby-2/site/config/config.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/templates/programmfahrt.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/panel/blueprints/essays.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/panel/blueprints/kontakt.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/panel/blueprints/home.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/panel/blueprints/kundenstimme.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/panel/blueprints/programmfahrten.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/panel/blueprints/programmstart.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/templates/programmstart.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/footer.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/breadfooter.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/header.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/menu.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/submenu.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/templates/kontakt.php",
+		"/Users/Benjamin/Sites/blindinger_2014/scss/magnific-popup.scss",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/form.php",
+		"/Users/Benjamin/Sites/mail/site/snippets/menu.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/_menu.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/templates/home.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/contentfooter.php",
+		"/Users/Benjamin/Sites/blindinger_2014/scss/_settings.scss",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/kundenstimme.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/templates/archiv.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/programmfahrt.php",
+		"/Users/Benjamin/Sites/blindinger_2014/assets/js/app.js",
+		"/Users/Benjamin/Sites/blindinger_2014/assets/js/magnific-popup.js",
+		"/Users/Benjamin/Sites/blindinger_2014/site/plugins/thumb.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/templates/default.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/templates/kundenstimme.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/snippets/essay.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/templates/programmfahrten.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/templates/essays.php",
+		"/Users/Benjamin/Sites/blindinger_2014/assets/js/stickyfoundationfooter.js",
+		"/Users/Benjamin/Sites/blindinger_2014/content/site.txt",
+		"/Users/Benjamin/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Benjamin/Sites/blindinger_2014/site/plugins/email.php",
+		"/Users/Benjamin/Sites/blindinger_2014/site/templates/kontakt.html",
+		"/Users/Benjamin/Sites/blindinger_2014/site/templates/programmstarter.php",
+		"/Users/Benjamin/Sites/blindinger_2014/content/04-test/programmfahrt.txt",
+		"/Users/Benjamin/Sites/blindinger_2014/index.html",
+		"/Users/Benjamin/Sites/blindinger_2014/config.rb",
+		"/Users/Benjamin/Sites/blindinger_2014/index.php",
+		"/Users/Benjamin/Sites/blindinger_2014/.htaccess",
+		"/Users/Benjamin/Sites/blindinger_neu/scss/style.scss",
+		"/Users/Benjamin/Sites/dilara_altun/css/site.css",
+		"/Users/Benjamin/Sites/blindinger_neu/index.php",
+		"/Users/Benjamin/Library/Caches/TemporaryItems/1-utf.php",
+		"/Users/Benjamin/Sites/blindinger_neu/bower.json",
+		"/Users/Benjamin/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/Users/Benjamin/Library/Application Support/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/Users/Benjamin/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Volumes/C/Users/Benjamin/AppData/Roaming/cfclient/config.json",
+		"/Users/Benjamin/Sites/blindinger_neu/css/style.css",
+		"/Users/bgierlich/Sites/blindinger_neu/css/style.css",
+		"/Users/bgierlich/Desktop/test.html",
+		"/Users/bgierlich/Sites/blindinger_neu/scss/style.scss",
+		"/Users/bgierlich/Sites/blindinger_neu/components/css-modal/modal.scss",
+		"/Users/bgierlich/Sites/blindinger_neu/index.php",
+		"/Users/bgierlich/Sites/blindinger_neu/dead.letter",
+		"/Users/bgierlich/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/bgierlich/Sites/codekit_test/scss/style.scss",
+		"/Users/bgierlich/Sites/codekit_test/index.html",
+		"/Users/bgierlich/Dropbox/Kooperation/Restart/index.php",
+		"/Users/bgierlich/Dropbox/Kooperation/SQLite/Readme.md",
+		"/Users/bgierlich/Dropbox/Kooperation/SQLite/hallo.txt",
+		"/Users/benediktsattler/Sites/mediacamp/css/normalize.css",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/css/style.scss",
+		"/Users/benediktsattler/Sites/mediacamp/index.html",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/footer.php",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/header.php",
+		"/Users/benediktsattler/Sites/mediacamp/css/styles.scss",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/functions.php",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/article.php",
+		"/Users/benediktsattler/Sites/anchordev/themes/sh-simpleblog-master/article.php",
+		"/Users/benediktsattler/Sites/anchordev/themes/default/functions.php",
+		"/Users/benediktsattler/Sites/anchordev/anchor/functions/helpers.php",
+		"/Users/benediktsattler/Sites/anchordev/themes/bushwick-master/header.php",
+		"/Users/benediktsattler/Sites/anchordev/themes/bushwick-master/article.php",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/posts.php",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/about.txt",
+		"/Users/benediktsattler/Sites/anchordev/themes/bushwick-master/posts.php",
+		"/Users/benediktsattler/Sites/mediacamp/humans.txt",
+		"/Users/benediktsattler/Sites/mediacamp/imprint.html",
+		"/Users/benediktsattler/Sites/mediacamp/css/styles.css",
+		"/Users/benediktsattler/Dropbox/media-camp_2013/mediacamp-website/imprint.html",
+		"/Users/benediktsattler/Sites/index.html",
+		"/Users/benediktsattler/Sites/imprint.html",
+		"/Users/benediktsattler/Dropbox/media-camp_2013/mediacamp-website/index.html",
+		"/Users/benediktsattler/Sites/mediacamp/mywotdaf2709e3addbdf7c823.html",
+		"/Users/benediktsattler/Sites/anchordev/themes/default/header.php",
+		"/Users/benediktsattler/Sites/app/index.html",
+		"/Users/benediktsattler/Sites/mediacamp/js/smoothscroll.js",
+		"/Users/benediktsattler/Sites/mediacamp/index2.html",
+		"/Users/benediktsattler/Dropbox/websites/mediacamp/top.js",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/page.php",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/css/reset.css",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/css/small.css",
+		"/Users/benediktsattler/Sites/app/humans_.txt",
+		"/Users/benediktsattler/Sites/app/humans.txt",
+		"/Users/benediktsattler/Sites/app/index_.html",
+		"/Users/benediktsattler/Sites/app/index2.html",
+		"/Users/benediktsattler/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/benediktsattler/Sites/app/favicon.ico",
+		"/Users/benediktsattler/Sites/www/index.html",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/css/style.css",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/css/testtyle.css",
+		"/Users/benediktsattler/Downloads/testtyle.css",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/css/bour.scss",
+		"/Users/benediktsattler/Sites/anchordev/anchor/config/app.php",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/css/bourbon.scss",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/css/bourbon.css",
+		"/Users/benediktsattler/Desktop/Ich mag Bourbon.html",
+		"/Users/benediktsattler/Sites/anchordev/themes/slup/search.php",
+		"/Users/benediktsattler/Sites/anchordev/themes/skiff/css/style.css",
+		"/Users/benediktsattler/Sites/anchor9/themes/skiff/header.php",
+		"/Users/benediktsattler/Sites/anchor9/themes/skiff/posts.php",
+		"/Users/benediktsattler/Sites/benediktsattler.de/README.md",
+		"/Users/benediktsattler/Sites/anchordev/themes/skiff/page.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/Benjamin/Sites/blindinger_2014",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"background-",
+			"backgr",
+			"dropdown",
+			"has-dropdown",
+			"$data",
+			"h2",
+			"container",
+			"conta",
+			"cheat",
+			"$cont",
+			"bold",
+			"10%",
+			"darken",
+			"h1",
+			"primar",
+			"bread",
+			"buttons",
+			"Buttons",
+			"link-color",
+			"button-fon",
+			"bott",
+			"link-colo",
+			"button",
+			"link",
+			"sub",
+			"secondary-color",
+			"sub nav",
+			"topbar",
+			"primary-color",
+			"active",
+			"$page",
+			"\"",
+			"font-size",
+			"font size",
+			"_settings.scss",
+			"settings.scss",
+			"settings",
+			"general",
+			"background",
+			"h2",
+			"h2-font-colo",
+			"body-font-family",
+			"font-family",
+			"font family",
+			"body-font-fam",
+			"font-fom",
+			"header",
+			"Milano",
+			"PHP",
+			"Kontakt",
+			"ß",
+			"Ö",
+			"Ü",
+			"ä",
+			"ü",
+			"ö",
+			"roma",
+			"erwach",
+			"€",
+			"ß",
+			"Ö",
+			"ö",
+			"ü",
+			"ä",
+			"ü",
+			"ä",
+			"“",
+			"„",
+			"kontakt",
+			"rom",
+			"roma",
+			"“",
+			"„",
+			"first-child",
+			"first:ch",
+			"z-in",
+			"logo",
+			"font-size",
+			"scroll",
+			"padding",
+			"bottom_menu",
+			"bottom_men",
+			"agbs",
+			"last-child",
+			"last:child",
+			" (0 0 0",
+			" (0 0 0 0",
+			" (0 0 0 0) ",
+			"rgba",
+			"sc_01",
+			"line-height: ",
+			"line-h",
+			"font-size",
+			"famil",
+			"font-weight: 400;",
+			"weight",
+			"cont",
+			"margin-top",
+			"bottom_",
+			"bottm",
+			"bottm_menu",
+			"scrolling",
+			"scroll",
+			"scrolling",
+			"adresse",
+			"adress",
+			"body",
+			"from",
+			"h2",
+			"arvo",
+			"social-it",
+			"nav",
+			"expand",
+			"first",
+			"gri",
+			"support-g",
+			"suppo",
+			"wrap",
+			"-wrap",
+			"fav",
+			"logo",
+			"base",
+			"media.cap",
+			"in mitte",
+			"ga",
+			"support-",
+			"secti",
+			"info"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"left-submenu",
+			"submenu",
+			"has-submenu",
+			"$kundenstimme",
+			"$page",
+			"$data",
+			"$page->children()",
+			"§data",
+			"'",
+			"&szlig;",
+			"&Ouml;",
+			"&Uuml;",
+			"&auml;",
+			"&uuml;",
+			"&ouml;",
+			"&euro;",
+			"&szlig;",
+			"&Ouml;",
+			"&ouml;",
+			"&uuml;",
+			"&auml;",
+			"&uuml;",
+			"&auml;",
+			"&#8220;",
+			"&#8222;",
+			"&#8220;",
+			"&#8222;",
+			"h3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/benediktsattler/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true
+}
